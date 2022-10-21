@@ -8,5 +8,13 @@ namespace Lab_4a.Models
         public string Id { get; set; }
 
         public string userId { get; set; }
+
+        public string date { get; set; }
+
+        public string text { get; set; }
+
+        public bool done { get; set; }
     }
+}
+}
 }
