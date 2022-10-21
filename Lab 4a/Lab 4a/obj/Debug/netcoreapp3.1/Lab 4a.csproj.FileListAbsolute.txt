@@ -1,0 +1,113 @@
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Lab 4a.StaticWebAssets.xml
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Lab 4a.exe
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Lab 4a.deps.json
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Lab 4a.runtimeconfig.json
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Lab 4a.runtimeconfig.dev.json
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Lab 4a.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Lab 4a.pdb
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Lab 4a.Views.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Lab 4a.Views.pdb
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.csproj.AssemblyReference.cache
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.AssemblyInfoInputs.cache
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.AssemblyInfo.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.csproj.CoreCompileInputs.cache
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.RazorAssemblyInfo.cache
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.RazorAssemblyInfo.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\staticwebassets\Lab 4a.StaticWebAssets.Manifest.cache
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\staticwebassets\Lab 4a.StaticWebAssets.xml
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.TagHelpers.input.cache
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.TagHelpers.output.cache
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.RazorCoreGenerate.cache
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.RazorTargetAssemblyInfo.cache
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.RazorTargetAssemblyInfo.cs
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.Views.pdb
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.csproj.CopyComplete
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.pdb
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\obj\Debug\netcoreapp3.1\Lab 4a.genruntimeconfig.cache
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\Snappier.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4a\Lab 4a\Lab 4a\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
