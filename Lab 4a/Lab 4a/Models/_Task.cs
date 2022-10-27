@@ -5,6 +5,8 @@ namespace Lab_4a.Models
 {
     public class _Task
     {
+        [BsonId]
+        [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
 
         public string userId { get; set; }
@@ -16,5 +18,5 @@ namespace Lab_4a.Models
         public bool done { get; set; }
     }
 }
-}
-}
+
+

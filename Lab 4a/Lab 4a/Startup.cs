@@ -78,7 +78,7 @@ namespace Lab_4a
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=_Task}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
         }
