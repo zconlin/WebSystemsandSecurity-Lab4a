@@ -1,4 +1,56 @@
-﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+﻿/*My CSS*/
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+.create-button {
+    /*background-color: var(--accent);
+    color: var(--primary-text);*/
+    border-radius: 5px;
+    font-weight: bold;
+    height: 30px;
+}
+
+.task-delete {
+    display: inline-block;
+    box-sizing: border-box;
+    /* Add property to change delete icon color */
+    color: var(--delete);
+}
+
+.material-icon {
+    border: none; /* No border */
+    background: none; /* Match the background of the parent */
+    font-family: 'Material Icons'; /* Use the icon font */
+    font-size: inherit; /* Input doesn't automatically inherit font size. This brings it in. */
+    cursor: pointer; /* Change the cursor to a pointer when hovering on this element */
+}
+
+.checked-task {
+    text-decoration: line-through;
+    box-sizing: border-box;
+}
+
+/* Checkboxes */
+input.checkbox-icon {
+    font-family: 'Material Icons';
+    font-size: inherit; /* Input doesn't automatically inherit font size. This brings it in. */
+    appearance: none; /* Hide the existing checkbox so that the new rendering will overlay it */
+    cursor: pointer; /* Change the cursor to a pointer when hovering on this element */
+}
+
+    input.checkbox-icon:before {
+        content: 'check_box_outline_blank';
+    }
+
+    input.checkbox-icon:checked:before {
+        content: 'check_box';
+/*        color: var(--accent); */
+    }
+
+
+
+
+
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
 a.navbar-brand {

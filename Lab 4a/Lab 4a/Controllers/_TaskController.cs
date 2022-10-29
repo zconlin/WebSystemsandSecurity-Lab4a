@@ -27,15 +27,14 @@ namespace Lab_4a.Controllers
         // GET: _Task
         public async Task<IActionResult> Index()
         {
-            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier); // will give the user's userId
-            ViewData["userId"] = userId;
+            var UserId = User.FindFirstValue(ClaimTypes.NameIdentifier); // will give the user's UserId
+            ViewData["UserId"] = UserId;
 
-            // STILL NEED TO GET THE TASKS ///////////////////
-            // ALSO CRASHING BECAUSE I NEED AN AWAIT /////////
+            IEnumerable<_Task> tasks = await _dao.Read(UserId);
+            ViewData["tasks"] = tasks;
 
             return View();
         }
-
         
 
         // POST: _Task/Create
@@ -43,7 +42,7 @@ namespace Lab_4a.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("userId,text,date")] _Task _Task)
+        public async Task<IActionResult> Create([Bind("UserId,text,date")] _Task _Task)
         {
             if (ModelState.IsValid)
             {
@@ -58,7 +57,7 @@ namespace Lab_4a.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(string id, [Bind("Id,userId,date,text,done")] _Task _Task)
+        public async Task<IActionResult> Edit(string id, [Bind("Id,UserId,date,text,done")] _Task _Task)
         {
             if (id != _Task.Id)
             {
@@ -69,11 +68,12 @@ namespace Lab_4a.Controllers
             {
                 try
                 {
+                    _Task.done = !_Task.done;
                     await _dao.Update(_Task);
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                        return NotFound();
+                    return NotFound();
                 }
                 return RedirectToAction(nameof(Index));
             }

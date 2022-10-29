@@ -9,7 +9,7 @@ namespace Lab_4a.Models
         [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
 
-        public string userId { get; set; }
+        public string UserId { get; set; }
 
         public string date { get; set; }
 
@@ -18,5 +18,3 @@ namespace Lab_4a.Models
         public bool done { get; set; }
     }
 }
-
-

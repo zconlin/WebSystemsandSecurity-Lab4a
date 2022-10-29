@@ -1,28 +1,39 @@
-﻿@model IEnumerable<Lab_4a.Models._Task>
+﻿@model _Task
 
 @{
     ViewData["Title"] = "Index";
+    IEnumerable<_Task> Model = (IEnumerable<_Task>)ViewData["tasks"];
+    string UserId = (string)ViewData["UserId"];
 }
 
 <h1>Index</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+    <form asp-action="Create">
+        <input type="hidden" asp-for="UserId" class="form-control" value="@UserId" />
+        <input asp-for="text" class="form-control" placeholder="Add new task" required />
+        <input asp-for="date" type="date" class="form-control" required />
+        <div class="form-group">
+            <input type="submit" value="Add Task" />
+        </div>
+    </form>
+
 <table class="table">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.userId)
+                @*@Html.DisplayNameFor(model => model.done)*@
+                Done
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.date)
+                @*@Html.DisplayNameFor(model => model.text)*@
+                Task
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.text)
+                @*@Html.DisplayNameFor(model => model.date)*@
+                Date
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.done)
+                Delete
             </th>
             <th></th>
         </tr>
@@ -30,22 +41,46 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
+
             <td>
-                @Html.DisplayFor(modelItem => item.userId)
+                <form asp-action="Edit">
+                    <input asp-for="Id" type="hidden" value=@item.Id/>
+                    <input asp-for="UserId" type="hidden" value=@item.UserId/>
+                    <input asp-for="date" type="hidden" class="form-control" value=@item.date/>
+                    <input asp-for="text" type="hidden" class="form-control" value=@item.text/>
+                    <input asp-for="done" type="hidden" asp-for="done" value=@item.done/>
+
+                        @{
+                            var whichIcon = "";
+                            if(item.done) {
+                             whichIcon = "check_box";
+                            }
+                            else {
+                            whichIcon = "check_box_outline_blank";
+                            }
+                        }
+
+                    <button type="submit" class="material-icon">@whichIcon</button>
+                    <input type="hidden" name="taskID" value=@item.done>
+                </form>
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.text)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.date)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.text)
-            </td>
+                <form asp-action="Delete">
+                    <input type="hidden" asp-for="Id" value="@item.Id" />
+                    <input type="submit" value="Delete" class="btn btn-danger">
+                </form>
+                </td>
             <td>
-                @Html.DisplayFor(modelItem => item.done)
-            </td>
-            <td>
-                @*<a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>*@
+                
+
+                
             </td>
         </tr>
 }
