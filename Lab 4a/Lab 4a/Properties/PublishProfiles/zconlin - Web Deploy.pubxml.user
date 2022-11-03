@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA15ygk/moKkiTw9QZB8YFMAAAAAACAAAAAAAQZgAAAAEAACAAAAAKjlQdts6wsLZ75VqWZlYgqQEBEZGEgm5DPhej0ZH0VAAAAAAOgAAAAAIAACAAAACkOUXwVYWc54Zr6q2hie6mUExkrU9IDpZc8SzSXVQzpIAAAAC99XA5BqUpAm5VhQQ8yFWbkIdyKuiOR4IxjIUivFCNUhv/ThQIk4QWnAmukuLJ3VUxkZM2QzlvNDPKH4Hep7nOH5a5MSEjpjXULADxWakJuP0J8x7ZOcsinmt1iZZxrq3msg+PRkBl3qwwpT9Uuhos/JPCEk3btRl2VCJ+BPg+OUAAAABcgcqgEwb7aeCm9fuJVA9FdVEFKj7G/2yaf8/0tK2yhbU8SVqEYPsB01bNYldMkgdFqpj1Cv+Mc39fLwawXVix</EncryptedPassword>
+    <History>True|2022-11-02T21:46:42.5713648Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:zconlindbserver.database.windows.net,1433%3bInitial Catalog=zconlin_db%3bUser Id=zconlin%40zconlindbserver%3bPassword=Zc121300</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Lab_4a.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:zconlindbserver.database.windows.net,1433%3bInitial Catalog=zconlin_db%3bUser Id=zconlin%40zconlindbserver%3bPassword=Zc121300</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

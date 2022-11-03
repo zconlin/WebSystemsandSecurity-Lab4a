@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4\lab-4a-zconlin\Lab 4a\Lab 4a\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4\lab-4a-zconlin\Lab 4a\Lab 4a\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\Lab_4a.Data.ApplicationDbContext.sql" />
+</sitemanifest>

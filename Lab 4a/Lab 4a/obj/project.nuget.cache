@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJmq8ec3TXNEgWwEeo7s1bD1VGIwAU/94y+flsgXu59HYVYt88MFOw3EVmg7M7HzRcWMjuE0iNoOzPJbZbrahQ==",
+  "dgSpecHash": "ucBYFvG5jDaeBd8oNO8aSPODk3K2RENQ84g3U9u5dV03zyIg1DQHXjDS130dvklhtY9dW0hqH49vikygSfkSMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zacco\\Documents\\Coding\\ITC 210\\labs\\Lab 4a\\Lab 4a\\Lab 4a\\Lab 4a.csproj",
+  "projectFilePath": "C:\\Users\\zacco\\Documents\\Coding\\ITC 210\\labs\\Lab 4\\lab-4a-zconlin\\Lab 4a\\Lab 4a\\Lab 4a.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zacco\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\zacco\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\3.1.12\\microsoft.aspnetcore.authentication.google.3.1.12.nupkg.sha512",
