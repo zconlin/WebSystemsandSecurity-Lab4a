@@ -11,6 +11,6 @@
     <WebStackScaffolding_DbContextTypeFullName>Lab_4a.Data.ApplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
-    <NameOfLastUsedPublishProfile>C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4\lab-4a-zconlin\Lab 4a\Lab 4a\Properties\PublishProfiles\zconlin - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\zacco\Documents\Coding\ITC 210\labs\Lab 4\lab-4a-zconlin\Lab 4a\Lab 4a\Properties\PublishProfiles\ToDoZconlin - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
